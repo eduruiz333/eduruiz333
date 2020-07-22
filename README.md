@@ -1,6 +1,6 @@
-### Hi there 👋
+### Aloha! 👋
 
-https://eduruiz333.github.io/assets/img/jedi.png
+Sou dev front-end, atuo na área desde 2001, não tenho muita coisa aqui no git, mas o que tenho tá aí, fique a vontade para dar uma fuçada ;-)
 
 <!--
 **eduruiz333/eduruiz333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
