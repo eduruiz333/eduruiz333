@@ -1,4 +1,4 @@
-# Aloha, primos! 👋
+# Ahoy, marujos! 🏴‍☠  
 
 ### Sou dev front-end, atuo na área desde 2001, não tenho muita coisa aqui no git, mas o que tenho tá aí.
 
