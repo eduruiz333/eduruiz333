@@ -2,7 +2,7 @@
 
 Sou dev front-end, atuo na área desde 2001, não tenho muita coisa aqui no git, mas o que tenho tá aí, fique a vontade para dar uma zapeada 😉
 
-![May the Force be with you](./assets/img/android-chrome-192x192.png)
+![May the Force be with you](assets/img/android-chrome-192x192.png)
 
 #### Que a Força esteja com você!
 
