@@ -1,9 +1,12 @@
-# Aloha! 👋
+# Aloha, primos! 👋
 
 Sou dev front-end, atuo na área desde 2001, não tenho muita coisa aqui no git, mas o que tenho tá aí.
 
 Fique a vontade para dar uma zapeada 😉
 
+* [Portfólio](https://eduruiz333.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/eduruiz333/)
+* [Instagram](https://www.instagram.com/eduruiz333/)
 
 ![May the Force be with you](https://eduruiz333.github.io/assets/img/android-chrome-192x192.png)
 
