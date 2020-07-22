@@ -1,6 +1,10 @@
-### Aloha! 👋
+## Aloha! 👋
 
-Sou dev front-end, atuo na área desde 2001, não tenho muita coisa aqui no git, mas o que tenho tá aí, fique a vontade para dar uma fuçada ;-)
+Sou dev front-end, atuo na área desde 2001, não tenho muita coisa aqui no git, mas o que tenho tá aí, fique a vontade para dar uma zapeada 😉
+
+assets/img/android-chrome-192x192.png
+
+#### Que a Força esteja com você!
 
 <!--
 **eduruiz333/eduruiz333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
