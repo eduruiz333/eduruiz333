@@ -6,6 +6,7 @@ Fique a vontade para dar uma zapeada 😉
 
 * [Portfólio](https://eduruiz333.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/eduruiz333/)
+* [Medium](https://medium.com/@eduruiz333/)
 * [Instagram](https://www.instagram.com/eduruiz333/)
 
 ![May the Force be with you](https://eduruiz333.github.io/assets/img/android-chrome-192x192.png)
