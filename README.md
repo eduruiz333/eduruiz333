@@ -1,6 +1,6 @@
 # Aloha, primo(a)!  🤘 
 
-### Sou dev front-end, não tenho muita coisa aqui no git, mas o que tenho tá aí.
+### Dev front-end.
 
 ### 📊Atividades no github:
 ![Eduardo Ruiz github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduruiz333&layout=compact&theme=tokyonight)
