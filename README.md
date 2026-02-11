@@ -38,8 +38,8 @@ Atuei em todo o ciclo do produto:
 O projeto validou demanda real, gerou vendas recorrentes e evoluiu até oportunidades de distribuição e parceria estratégica.
 
 🔗 Instagram oficial do projeto e página com vídeos usados em tráfego pago:  
-[@sweetspell_8/](https://www.instagram.com/sweetspell_8/)
-[Case de Vídeos](https://zazenconsultoria.com.br/campanhas-sweet-spell/index.html)
+- [@sweetspell_8/](https://www.instagram.com/sweetspell_8/)
+- [Case de Vídeos](https://zazenconsultoria.com.br/campanhas-sweet-spell/index.html)
 
 Principais aprendizados como PM/PO:
 - Produto validado não é produto escalável sem estrutura operacional.
