@@ -1,5 +1,5 @@
 # Product Owner / Product Strategist | UX/UI | Desenvolvedor Front-end
-* [LinkedIn](https://www.linkedin.com/in/zenduardo/)
+[LinkedIn](https://www.linkedin.com/in/zenduardo/)
 
 ## Sobre Mim
 Sou Product Owner com mais de 20 anos de experiência técnica em TI, conectando visão estratégica, execução e impacto mensurável. Minha abordagem combina product discovery, UX e tecnologia para entregar produtos que fazem diferença real no negócio e na vida dos usuários.
