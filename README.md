@@ -24,18 +24,37 @@ Vamos conversar?
 
 ---
 
-## 💼 Projetos - clique nos links para acessar, ou ctrl + clique para abrir em uma nova guia (o markdown do git não permite fazer isso via HTML)
-### 🛠️ Skills
+## 🍫 [Sweet Spell — Case de Produto e Growth](https://zazenconsultoria.com.br/campanhas-sweet-spell/index.html)
 
-- HTML  
-- CSS (SASS)  
-- JavaScript  
-- Responsividade (Mobile First)  
-- Bootstrap  
-- Otimização de Imagens  
-- Minificação de Assets  
-- SEO  
-- Acessibilidade
+A Sweet Spell foi um projeto autoral de marca própria no segmento de confeitaria premium, desenvolvido e validado do zero com mentalidade de Product Owner.
+
+Atuei em todo o ciclo do produto:
+
+- Ideação e definição de proposta de valor  
+- Desenvolvimento e padronização do produto  
+- Estruturação de custos, margem e precificação  
+- Construção de identidade e posicionamento de marca  
+- Aquisição via tráfego pago (Meta Ads)  
+- Estruturação de funil Instagram → WhatsApp  
+- Parcerias B2B e validação em ponto de venda  
+
+O projeto validou demanda real, gerou vendas recorrentes e evoluiu até oportunidades de distribuição e parceria estratégica.
+
+🔗 Instagram oficial do projeto:  
+[https://www.instagram.com/sweetspell_8/](https://www.instagram.com/sweetspell_8/)
+
+Principais aprendizados como PM/PO:
+- Produto validado não é produto escalável sem estrutura operacional.
+- Aquisição previsível depende de proposta de valor clara.
+- Marca forte reduz fricção na conversão.
+- Gargalos muitas vezes são operacionais, não mercadológicos.
+
+A Sweet Spell foi um laboratório prático de produto, growth e visão de negócios aplicado ao mundo real.
+
+---
+
+## 💼 Projetos Web - clique nos links para acessar.
+Skills: HTML, CSS (SASS), JavaScript, Responsividade (Mobile First), Bootstrap, Otimização de Imagens, Minificação de Assets, SEO, Acessibilidade
 
 - [Home Page do Portal de Assinaturas da Certisign (2024)](https://zazenconsultoria.com.br/new-pda-pilot/index.html)
 
