@@ -45,10 +45,10 @@ O projeto validou demanda real, gerou vendas recorrentes e evoluiu até oportuni
 - [Case de Vídeos](https://zazenconsultoria.com.br/campanhas-sweet-spell/index.html)
 
 Principais aprendizados como PM/PO:
-- Produto validado não é produto escalável sem estrutura operacional.
-- Aquisição previsível depende de proposta de valor clara.
-- Marca forte reduz fricção na conversão.
-- Gargalos muitas vezes são operacionais, não mercadológicos.
+- Produto validado não é produto escalável sem estrutura operacional
+- Aquisição previsível depende de proposta de valor clara
+- Marca forte reduz fricção na conversão
+- Gargalos muitas vezes são operacionais, não mercadológicos
 
 A Sweet Spell foi um laboratório prático de produto, growth e visão de negócios aplicado ao mundo real.
 
