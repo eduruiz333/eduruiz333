@@ -16,7 +16,6 @@ Minha experiência inclui desde a construção de produtos do zero até redesign
 - Iteração contínua com base em feedback real
 
 Tenho background técnico sólido (front-end, SEO, tráfego pago) que me permite dialogar com times de engenharia e avaliar trade-offs de implementação sem perder de vista os objetivos de produto.
-Vamos conversar?
 
 ### Se você busca alguém que entenda tanto de produto quanto de execução, que saiba traduzir visão em ação e que coloque o cliente no centro das decisões, podemos trabalhar juntos.
 
@@ -25,6 +24,8 @@ Vamos conversar?
 ## 🍫 Sweet Spell — Case de Produto e Growth
 
 A Sweet Spell foi um projeto autoral de marca própria no segmento de confeitaria premium, desenvolvido e validado do zero com mentalidade de Product Owner.
+
+> **Durante o projeto,  participei do seminário intensivo Empretec (SEBRAE), fortalecendo competências de liderança, análise de risco, tomada de decisão e visão estratégica de negócio, adquirindo desenvolvimento empreendedor.**
 
 Atuei em todo o ciclo do produto:
 
@@ -38,12 +39,6 @@ Atuei em todo o ciclo do produto:
 - Parcerias B2B e validação em ponto de venda  
 
 O projeto validou demanda real, gerou vendas recorrentes e evoluiu até oportunidades de distribuição e parceria estratégica.
-
-### 🧠 Desenvolvimento Empreendedor
-
-> **Durante o projeto, participei do seminário intensivo Empretec (SEBRAE), fortalecendo competências de liderança, análise de risco, tomada de decisão e visão estratégica de negócio.**
-
-
 
 🔗 Instagram oficial do projeto e página com vídeos usados em tráfego pago:  
 - [@sweetspell_8/](https://www.instagram.com/sweetspell_8/)
