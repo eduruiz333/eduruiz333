@@ -35,6 +35,10 @@ Atuei em todo o ciclo do produto:
 - Estruturação de funil Instagram → WhatsApp  
 - Parcerias B2B e validação em ponto de venda  
 
+### 🧠 Desenvolvimento Empreendedor
+
+Durante o projeto, participei do seminário intensivo Empretec (SEBRAE), fortalecendo competências de liderança, análise de risco, tomada de decisão e visão estratégica de negócio.
+
 O projeto validou demanda real, gerou vendas recorrentes e evoluiu até oportunidades de distribuição e parceria estratégica.
 
 🔗 Instagram oficial do projeto e página com vídeos usados em tráfego pago:  
