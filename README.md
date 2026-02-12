@@ -1,6 +1,7 @@
 # Sobre Mim
-Sou Product Owner com mais de 20 anos de experiência técnica em TI, conectando visão estratégica, execução e impacto mensurável. Minha abordagem combina product discovery, UX e tecnologia para entregar produtos que fazem diferença real no negócio e na vida dos usuários.
-Trabalho na interseção entre estratégia de produto, experiência do usuário e viabilidade técnica. Meu foco está em descobrir o que realmente importa, priorizar com claridade e alinhar times em torno de objetivos comuns.
+Sou Product Owner com mais de 20 anos de experiência técnica em TI, conectando visão estratégica, execução e impacto mensurável. Minha abordagem combina product discovery, UX e tecnologia para entregar produtos que fazem diferença real no negócio e na vida dos usuários. Com experiências prévias no setor financeiro (bancos e corretoras) desenvolvi visão técnica e entendimento de produtos, com didática pedagócica adquirida como docente no SENAI refinei skills interpessoais. Também domino uso adequado e focado das melhores ferramentas de IA para análise de dados e insights. Trabalho na interseção entre estratégia de produto, experiência do usuário e viabilidade técnica.
+
+**Meu foco está em descobrir o que realmente importa, priorizar com claridade e alinhar times em torno de objetivos comuns.**
 
 ### O que faço
 Atuo como consultor em produto e growth, apoiando pequenas e médias empresas a estruturarem seus produtos digitais e estratégias de aquisição. Lidero sessões de discovery, defino hipóteses de crescimento e priorizo iniciativas com foco em validação rápida e resultados mensuráveis.
@@ -31,7 +32,8 @@ Atuei em todo o ciclo do produto:
 - Desenvolvimento e padronização do produto  
 - Estruturação de custos, margem e precificação  
 - Construção de identidade e posicionamento de marca  
-- Aquisição via tráfego pago (Meta Ads)  
+- Aquisição via tráfego pago (Meta Ads)
+- Copywriting, storytelling e técnicas de vendas com escuta ativa e argumentos persuasivos
 - Estruturação de funil Instagram → WhatsApp  
 - Parcerias B2B e validação em ponto de venda  
 
