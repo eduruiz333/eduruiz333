@@ -39,7 +39,7 @@ O projeto validou demanda real, gerou vendas recorrentes e evoluiu até oportuni
 
 ### 🧠 Desenvolvimento Empreendedor
 
-> Durante o projeto, participei do seminário intensivo Empretec (SEBRAE), fortalecendo competências de liderança, análise de risco, tomada de decisão e visão estratégica de negócio.
+> **Durante o projeto, participei do seminário intensivo Empretec (SEBRAE), fortalecendo competências de liderança, análise de risco, tomada de decisão e visão estratégica de negócio.**
 
 
 
