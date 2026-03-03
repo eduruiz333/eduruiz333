@@ -25,7 +25,9 @@ Tenho background técnico sólido (front-end, SEO, tráfego pago) que me permite
 O Empretec é um seminário intensivo de imersão focado no desenvolvimento de comportamentos empreendedores, e não apenas em técnicas de gestão. Criado pela ONU e aplicado com exclusividade no Brasil pelo Sebrae, o programa utiliza uma metodologia global presente em mais de 40 países.
 
 https://certificados.sebrae.com.br
+
 Código de autenticação: 69a7067e53c6447c040e246c
+
 ---
 
 ## 🍫 Sweet Spell — Case de Produto e Growth
