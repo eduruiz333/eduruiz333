@@ -8,8 +8,6 @@ Discovery centrado no cliente e nos objetivos de negócio. Priorização baseada
 
 *Se você busca alguém que entenda tanto de produto quanto de execução, que saiba traduzir visão em ação e que coloque o cliente no centro das decisões, podemos trabalhar juntos.*
 
----
-
 ## Portfólio: Sua Jornada em Produto
 
 "Sua Jornada em Produto" é um curso que estruturei para quem quer entrar no mercado de produto com base sólida e portfólio real. São 21 semanas organizadas em 9 fases progressivas, construídas sobre o que Marty Cagan, Teresa Torres, Dan Olsen, Melissa Perri, Roman Pichler e outros nomes centrais da disciplina ensinam, filtrado pelo que realmente importa para conquistar a primeira vaga como PM ou PO.
@@ -22,7 +20,6 @@ O projeto está disponível em duas versões: guia de estudo completo em PDF e a
 
 [Acessar o ambiente de prática](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/curso-product-manager-product-owner-interativo.html)
 
----
 
 ## Artigo: Você está chamando tudo de MVP. E errando feio.
 
@@ -30,7 +27,6 @@ PoC, protótipo, MVP, piloto, MMP: cinco instrumentos com propósitos completame
 
 [Ler o artigo](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/MVP_PoC_Guia_Marcos_Ruiz.pdf)
 
----
 
 ## Certificado Empretec
 O Empretec é um seminário intensivo de imersão focado no desenvolvimento de comportamentos empreendedores, e não apenas em técnicas de gestão. Criado pela ONU e aplicado com exclusividade no Brasil pelo Sebrae, o programa utiliza uma metodologia global presente em mais de 40 países.
@@ -39,7 +35,6 @@ https://certificados.sebrae.com.br
 
 Código de autenticação: 69a7067e53c6447c040e246c
 
----
 
 ## 🍫 Sweet Spell — Case de Produto e Growth
 
