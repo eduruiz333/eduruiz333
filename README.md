@@ -1,14 +1,14 @@
-#👈 Sobre Mim
+# 👈 Sobre Mim
 
 Sou Product Owner com mais de 20 anos em tecnologia, e o que carrego desse tempo não é só experiência técnica, é uma leitura diferente do que produto significa. Comecei como desenvolvedor front-end, e esse background ainda me distingue: consigo sentar com um time de engenharia, entender os trade-offs reais de implementação e tomar decisões que respeitam tanto a visão de produto quanto quem vai executar.
 
-##⚙️ Como trabalho
+## ⚙️ Como trabalho
 
 Discovery centrado no cliente e nos objetivos de negócio. Priorização baseada em impacto e viabilidade. Decisões orientadas por UX e dados. Alinhamento entre stakeholders técnicos e de negócio. Iteração contínua com base em feedback real. Tenho background técnico que me permite dialogar com times de engenharia e avaliar trade-offs de implementação sem perder de vista os objetivos de produto.
 
 *Se você busca alguém que entenda tanto de produto quanto de execução, que saiba traduzir visão em ação e que coloque o cliente no centro das decisões, podemos trabalhar juntos.*
 
-##🔎 Portfólio: Sua Jornada em Produto
+## 🔎 Portfólio: Sua Jornada em Produto
 
 "Sua Jornada em Produto" é um curso que estruturei para quem quer entrar no mercado de produto com base sólida e portfólio real. São 21 semanas organizadas em 9 fases progressivas, construídas sobre o que Marty Cagan, Teresa Torres, Dan Olsen, Melissa Perri, Roman Pichler e outros nomes centrais da disciplina ensinam, filtrado pelo que realmente importa para conquistar a primeira vaga como PM ou PO.
 
@@ -21,14 +21,14 @@ O projeto está disponível em duas versões: guia de estudo completo em PDF e a
 [Acessar o ambiente de prática](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/curso-product-manager-product-owner-interativo.html)
 
 
-##🖺 Artigo: Você está chamando tudo de MVP. E errando feio.
+## 🖺 Artigo: Você está chamando tudo de MVP. E errando feio.
 
 PoC, protótipo, MVP, piloto, MMP: cinco instrumentos com propósitos completamente diferentes, que o mercado trata como sinônimos. O erro custa tempo, dinheiro e credibilidade. Escrevi um guia direto para separar cada um com clareza, identificar a pergunta certa que cada instrumento responde, e montar um critério de decisão aplicável antes de qualquer build.
 
 [Ler o artigo](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/MVP_PoC_Guia_Marcos_Ruiz.pdf)
 
 
-##📜 Certificado Empretec
+## 📜 Certificado Empretec
 O Empretec é um seminário intensivo de imersão focado no desenvolvimento de comportamentos empreendedores, e não apenas em técnicas de gestão. Criado pela ONU e aplicado com exclusividade no Brasil pelo Sebrae, o programa utiliza uma metodologia global presente em mais de 40 países.
 
 https://certificados.sebrae.com.br
