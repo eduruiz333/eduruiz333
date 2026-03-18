@@ -21,7 +21,7 @@ O projeto está disponível em duas versões: guia de estudo completo em PDF e a
 [Acessar o ambiente de prática](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/curso-product-manager-product-owner-interativo.html)
 
 
-## 🗎 Artigo: Você está chamando tudo de MVP. E errando feio.
+## 📄 Artigo: Você está chamando tudo de MVP. E errando feio.
 
 PoC, protótipo, MVP, piloto, MMP: cinco instrumentos com propósitos completamente diferentes, que o mercado trata como sinônimos. O erro custa tempo, dinheiro e credibilidade. Escrevi um guia direto para separar cada um com clareza, identificar a pergunta certa que cada instrumento responde, e montar um critério de decisão aplicável antes de qualquer build.
 
