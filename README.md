@@ -1,4 +1,4 @@
-# 👈 Sobre Mim
+# 🧑‍💼 Sobre Mim
 
 Sou Product Owner com mais de 20 anos em tecnologia, e o que carrego desse tempo não é só experiência técnica, é uma leitura diferente do que produto significa. Comecei como desenvolvedor front-end, e esse background ainda me distingue: consigo sentar com um time de engenharia, entender os trade-offs reais de implementação e tomar decisões que respeitam tanto a visão de produto quanto quem vai executar.
 
