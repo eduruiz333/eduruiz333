@@ -16,16 +16,16 @@ O material não é uma lista de conceitos. Cada fase tem exercícios práticos, 
 
 O projeto está disponível em duas versões: guia de estudo completo em PDF e ambiente interativo de prática, onde é possível simular entrevistas, refinar artefatos e testar o conhecimento aplicado.
 
-[Acessar o guia de estudo](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/Curso_PM_PO_Marcos_Ruiz_v3.pdf) 
+[Acessar o guia de estudo](https://zazenconsultoria.com.br/portfolio/curso-product-manager-product-owner-interativo/Curso_PM_PO_Marcos_Ruiz_v3.pdf) 
 
-[Acessar o ambiente de prática](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/curso-product-manager-product-owner-interativo.html)
+[Acessar o ambiente de prática](https://zazenconsultoria.com.br/portfolio/curso-product-manager-product-owner-interativo/curso-product-manager-product-owner-interativo.html)
 
 
 ## 📄 Artigo: Você está chamando tudo de MVP. E errando feio.
 
 PoC, protótipo, MVP, piloto, MMP: cinco instrumentos com propósitos completamente diferentes, que o mercado trata como sinônimos. O erro custa tempo, dinheiro e credibilidade. Escrevi um guia direto para separar cada um com clareza, identificar a pergunta certa que cada instrumento responde, e montar um critério de decisão aplicável antes de qualquer build.
 
-[Ler o artigo](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/MVP_PoC_Guia_Marcos_Ruiz.pdf)
+[Ler o artigo](https://zazenconsultoria.com.br/portfolio/curso-product-manager-product-owner-interativo/MVP_PoC_Guia_Marcos_Ruiz.pdf)
 
 
 ## 📜 Certificado Empretec
@@ -57,7 +57,7 @@ O projeto validou demanda real, gerou vendas recorrentes e evoluiu até oportuni
 
 🔗 Instagram oficial do projeto e página com vídeos usados em tráfego pago:  
 - [@sweetspell_8/](https://www.instagram.com/sweetspell_8/)
-- [Case de Vídeos](https://zazenconsultoria.com.br/campanhas-sweet-spell/index.html)
+- [Case de Vídeos](https://zazenconsultoria.com.br/portfolio/campanhas-sweet-spell/index.html)
 
 Principais aprendizados como PM/PO:
 - Produto validado não é produto escalável sem estrutura operacional
@@ -72,24 +72,24 @@ A Sweet Spell foi um laboratório prático de produto, growth e visão de negóc
 ## 💼 Projetos Web - clique nos links para acessar.
 Skills: HTML, CSS (SASS), JavaScript, Responsividade (Mobile First), Bootstrap, Otimização de Imagens, Minificação de Assets, SEO, Acessibilidade
 
-- [Home Page do Portal de Assinaturas da Certisign (2024)](https://zazenconsultoria.com.br/new-pda-pilot/index.html)
+- [Home Page do Portal de Assinaturas da Certisign (2024)](https://zazenconsultoria.com.br/portfolio/new-pda-pilot/index.html)
 
-- [Home Page do iziHub da Certisign (2024)](https://zazenconsultoria.com.br/izihub/index.html)
+- [Home Page do iziHub da Certisign (2024)](https://zazenconsultoria.com.br/portfolio/izihub/index.html)
 
-- [Hotsite da parceria Nextel & Certisign (2020)](https://zazenconsultoria.com.br/hotsite-nextel/index.html)
+- [Hotsite da parceria Nextel & Certisign (2020)](https://zazenconsultoria.com.br/portfolio/hotsite-nextel/index.html)
 
-- [Teste de Front-end (2019)](https://zazenconsultoria.com.br/teste-front/index.html)
+- [Teste de Front-end (2019)](https://zazenconsultoria.com.br/portfolio/teste-front/index.html)
 
-- [Página logada do produto RemoteID da Certisign](https://zazenconsultoria.com.br/remoteId/index.html)
+- [Página logada do produto RemoteID da Certisign](https://zazenconsultoria.com.br/portfolio/remoteId/index.html)
 
-- [Site de Booking para locação de quartos](https://zazenconsultoria.com.br/hqbooking/index.html)
+- [Site de Booking para locação de quartos](https://zazenconsultoria.com.br/portfolio/hqbooking/index.html)
 
-- [Tela de resultados de busca para Livraria Cultura](https://zazenconsultoria.com.br/tela-busca-cultura/index.html)
+- [Tela de resultados de busca para Livraria Cultura](https://zazenconsultoria.com.br/portfolio/tela-busca-cultura/index.html)
 
-- [Página funcional de consulta de CEP](https://zazenconsultoria.com.br/api-consulta-cep/index.html)
+- [Página funcional de consulta de CEP](https://zazenconsultoria.com.br/portfolio/api-consulta-cep/index.html)
 
-- [Página de consumo de API da Marvel](https://zazenconsultoria.com.br/js-api-consume/index.html)
+- [Página de consumo de API da Marvel](https://zazenconsultoria.com.br/portfolio/js-api-consume/index.html)
 
-- [Feature simples de ordenação de listas](https://zazenconsultoria.com.br/data-sort-randon/index.html)
+- [Feature simples de ordenação de listas](https://zazenconsultoria.com.br/portfolio/data-sort-randon/index.html)
 
-- [Brincadeira com o Chapéu Seletor Hogwarts](https://zazenconsultoria.com.br/chapeu-seletor/index.html)
+- [Brincadeira com o Chapéu Seletor Hogwarts](https://zazenconsultoria.com.br/portfolio/chapeu-seletor/index.html)
