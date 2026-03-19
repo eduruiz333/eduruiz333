@@ -83,13 +83,3 @@ Skills: HTML, CSS (SASS), JavaScript, Responsividade (Mobile First), Bootstrap, 
 - [Página logada do produto RemoteID da Certisign](https://zazenconsultoria.com.br/portfolio/remoteId/index.html)
 
 - [Site de Booking para locação de quartos](https://zazenconsultoria.com.br/portfolio/hqbooking/index.html)
-
-- [Tela de resultados de busca para Livraria Cultura](https://zazenconsultoria.com.br/portfolio/tela-busca-cultura/index.html)
-
-- [Página funcional de consulta de CEP](https://zazenconsultoria.com.br/portfolio/api-consulta-cep/index.html)
-
-- [Página de consumo de API da Marvel](https://zazenconsultoria.com.br/portfolio/js-api-consume/index.html)
-
-- [Feature simples de ordenação de listas](https://zazenconsultoria.com.br/portfolio/data-sort-randon/index.html)
-
-- [Brincadeira com o Chapéu Seletor Hogwarts](https://zazenconsultoria.com.br/portfolio/chapeu-seletor/index.html)
