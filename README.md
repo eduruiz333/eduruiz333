@@ -16,16 +16,16 @@ O material não é uma lista de conceitos. Cada fase tem exercícios práticos, 
 
 O projeto está disponível em duas versões: guia de estudo completo em PDF e ambiente interativo de prática, onde é possível simular entrevistas, refinar artefatos e testar o conhecimento aplicado.
 
-[Acessar o guia de estudo](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/Curso_PM_PO_Marcos_Ruiz_v3.pdf) 
+[Acessar o guia de estudo](https://zazenconsultoria.com.br/curso-product-manager/Curso_PM_PO_Marcos_Ruiz_v3.pdf) 
 
-[Acessar o ambiente de prática](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/curso-product-manager-product-owner-interativo.html)
+[Acessar o ambiente de prática](https://zazenconsultoria.com.br/curso-product-manager/curso-product-manager-product-owner-interativo.html)
 
 
 ## 📄 Artigo: Você está chamando tudo de MVP. E errando feio.
 
 PoC, protótipo, MVP, piloto, MMP: cinco instrumentos com propósitos completamente diferentes, que o mercado trata como sinônimos. O erro custa tempo, dinheiro e credibilidade. Escrevi um guia direto para separar cada um com clareza, identificar a pergunta certa que cada instrumento responde, e montar um critério de decisão aplicável antes de qualquer build.
 
-[Ler o artigo](https://zazenconsultoria.com.br/curso-product-manager-product-owner-interativo/MVP_PoC_Guia_Marcos_Ruiz.pdf)
+[Ler o artigo](https://zazenconsultoria.com.br/curso-product-manager/MVP_PoC_Guia_Marcos_Ruiz.pdf)
 
 
 ## 📜 Certificado Empretec
