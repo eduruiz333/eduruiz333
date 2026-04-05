@@ -8,7 +8,9 @@ Discovery centrado no cliente e nos objetivos de negócio. Priorização baseada
 
 *Se você busca alguém que entenda tanto de produto quanto de execução, que saiba traduzir visão em ação e que coloque o cliente no centro das decisões, podemos trabalhar juntos.*
 
-## 🔎 Portfólio: Sua Jornada em Produto
+## 🔎 Portfólio
+
+###O Roadmap Essencial do​ Product Manager / Owner Moderno
 
 "Sua Jornada em Produto" é um curso que estruturei para quem quer entrar no mercado de produto com base sólida e portfólio real. São 21 semanas organizadas em 9 fases progressivas, construídas sobre o que Marty Cagan, Teresa Torres, Dan Olsen, Melissa Perri, Roman Pichler e outros nomes centrais da disciplina ensinam, filtrado pelo que realmente importa para conquistar a primeira vaga como PM ou PO.
 
@@ -20,8 +22,27 @@ O projeto está disponível em duas versões: guia de estudo completo em PDF e a
 
 [Acessar o ambiente de prática](https://zazenconsultoria.com.br/curso-product-manager/curso-product-manager-product-owner-interativo.html)
 
+###Planning Poker (Grátis, sem cadastro)
 
-## 📄 Artigo: Você está chamando tudo de MVP. E errando feio.
+Fiz uma ferramenta de Planning Poker gratuita e coloquei no ar.
+
+Você entra com seu nome, cria uma sala ou acessa uma pelo link, e todo o time vota em tempo real. Sem cadastro, sem instalação, funciona em qualquer dispositivo.
+
+Útil para refinamentos remotos quando o time não quer depender de ferramentas pagas ou que exigem conta.
+
+[Acessar Planning Poker](https://zazenconsultoria.com.br/curso-product-manager/planning-poker.html)
+
+Se usar e quiser dar um feedback, ficarei agradecido.
+
+### Calculadora de RICE no ar, pra quem trabalha com priorização de backlog
+
+Você insere os valores de Reach, Impact, Confidence e Effort para cada feature, a ferramenta calcula o score e ordena as opções. Tem também um exercício interativo com um caso real de produto financeiro, pra treinar a lógica antes de aplicar no trabalho.
+
+[Acessar calculadora RICE](https://zazenconsultoria.com.br/curso-product-manager/rice-trainer.html)
+
+## 📄 Artigo
+
+###Você está chamando tudo de MVP. E errando feio.
 
 PoC, protótipo, MVP, piloto, MMP: cinco instrumentos com propósitos completamente diferentes, que o mercado trata como sinônimos. O erro custa tempo, dinheiro e credibilidade. Escrevi um guia direto para separar cada um com clareza, identificar a pergunta certa que cada instrumento responde, e montar um critério de decisão aplicável antes de qualquer build.
 
@@ -34,7 +55,6 @@ O Empretec é um seminário intensivo de imersão focado no desenvolvimento de c
 https://certificados.sebrae.com.br
 
 Código de autenticação: 69a7067e53c6447c040e246c
-
 
 ## 🍫 Sweet Spell — Case de Produto e Growth
 
