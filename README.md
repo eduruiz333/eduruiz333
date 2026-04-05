@@ -10,7 +10,7 @@ Discovery centrado no cliente e nos objetivos de negócio. Priorização baseada
 
 ## 🔎 Portfólio
 
-###O Roadmap Essencial do​ Product Manager / Owner Moderno
+### O Roadmap Essencial do​ Product Manager / Owner Moderno
 
 "Sua Jornada em Produto" é um curso que estruturei para quem quer entrar no mercado de produto com base sólida e portfólio real. São 21 semanas organizadas em 9 fases progressivas, construídas sobre o que Marty Cagan, Teresa Torres, Dan Olsen, Melissa Perri, Roman Pichler e outros nomes centrais da disciplina ensinam, filtrado pelo que realmente importa para conquistar a primeira vaga como PM ou PO.
 
@@ -22,7 +22,7 @@ O projeto está disponível em duas versões: guia de estudo completo em PDF e a
 
 [Acessar o ambiente de prática](https://zazenconsultoria.com.br/curso-product-manager/curso-product-manager-product-owner-interativo.html)
 
-###Planning Poker (Grátis, sem cadastro)
+### Planning Poker (Grátis, sem cadastro)
 
 Fiz uma ferramenta de Planning Poker gratuita e coloquei no ar.
 
