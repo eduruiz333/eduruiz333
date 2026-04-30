@@ -96,10 +96,4 @@ Skills: HTML, CSS (SASS), JavaScript, Responsividade (Mobile First), Bootstrap, 
 
 - [Home Page do iziHub da Certisign (2024)](https://zazenconsultoria.com.br/portfolio/izihub/index.html)
 
-- [Hotsite da parceria Nextel & Certisign (2020)](https://zazenconsultoria.com.br/portfolio/hotsite-nextel/index.html)
-
-- [Teste de Front-end (2019)](https://zazenconsultoria.com.br/portfolio/teste-front/index.html)
-
-- [Página logada do produto RemoteID da Certisign](https://zazenconsultoria.com.br/portfolio/remoteId/index.html)
-
 - [Site de Booking para locação de quartos](https://zazenconsultoria.com.br/portfolio/hqbooking/index.html)
